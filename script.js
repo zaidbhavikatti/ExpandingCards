@@ -12,7 +12,6 @@ function removeActiveClasses() {
     });
 }
 
-
 // let panels = document.querySelectorAll(".panel");
 
 // panels.forEach((panel) => {
